@@ -1,2 +1,1 @@
-# Web-Design-Certification-Projects
-All projects completed for responsive web design certification.
+All projects completed for freeCodeCamp Responsive Web Design Certification
