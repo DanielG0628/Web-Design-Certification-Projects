@@ -1,0 +1,66 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+
+header{
+  background-color: #D3D3D3;
+}
+
+main{
+  background-color: #D3D3D3;
+}
+
+h1{
+  padding-top: 20px;
+  font-size: 38px;
+}
+
+h1, p {
+  text-align: center;
+}
+
+.bold{
+  font-weight: bold;
+}
+
+.citation{
+  text-align: left;
+}
+
+.quote{
+  text-align: left;
+}
+
+#img-div{
+  margin: 0 20px;
+  background-color: white;
+  padding: 25px 25px;
+} 
+
+#image{
+  display: block;
+  margin: auto;
+  max-width: 100%;
+  height: auto; 
+}
+
+#img-caption{
+  text-align: center;
+  margin: auto;
+  padding-top: 15px;
+}
+
+ul{
+  margin: auto;
+  max-width: 500px;
+  padding-bottom: 5px;
+}
+
+ul li{
+  padding: 10px;
+}
+
+.end{
+  padding: 0 25px 25px 25px;
+}
+
